@@ -9,7 +9,7 @@
         "title": "Port to listen",
         "type": "number",
         "required": true,
-        "default": "6345"
+        "default": 6345
       }
     }
   }
