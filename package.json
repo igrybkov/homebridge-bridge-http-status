@@ -3,7 +3,7 @@
   "displayName": "Bridge Http Status",
   "name": "@igrybkov/homebridge-bridge-http-status",
   "version": "1.0.1",
-  "description": "A short description about what your plugin does.",
+  "description": "Exposes simple web server on a http port to allow remotely check if homebridge is running.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
