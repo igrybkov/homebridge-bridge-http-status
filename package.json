@@ -2,7 +2,7 @@
   "private": false,
   "displayName": "Bridge Http Status",
   "name": "@igrybkov/homebridge-bridge-http-status",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Exposes simple web server on a http port to allow remotely check if homebridge is running.",
   "license": "Apache-2.0",
   "repository": {
